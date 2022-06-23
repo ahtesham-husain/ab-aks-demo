@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: php-apache
-        image: aksdemoacr313.azurecr.io/php-apache:1.1
+        image: aksdemoacr123.azurecr.io/php-apache:1.1
         ports:
         - containerPort: 80
         resources:
