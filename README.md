@@ -26,7 +26,8 @@
 
 ## Steps 
 
-![image](https://user-images.githubusercontent.com/90510921/175300610-1d0be745-a1ca-4c8f-8cfe-27fae2ab9873.png)
+![image](https://user-images.githubusercontent.com/90510921/175300815-d8f73a44-ece7-4e44-8df6-246c7f9677fb.png)
+
 
 
 - Build Image
