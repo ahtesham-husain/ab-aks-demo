@@ -26,6 +26,9 @@
 
 ## Steps 
 
+![image](https://user-images.githubusercontent.com/90510921/175300610-1d0be745-a1ca-4c8f-8cfe-27fae2ab9873.png)
+
+
 - Build Image
 - Create AKS Infra using terraform
 - Set context for AKS cluster
