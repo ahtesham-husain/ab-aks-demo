@@ -15,6 +15,8 @@
 - Set context for AKS cluster
 - deploy apps to AKS Cluster
 
+# YAML files:
+  The k8s objects defined in YAML files are used to deploy the app into a Kubernetes cluster
 
 - Dockerfile :  used to build the app. Then runs the app inside a docker container.
 
